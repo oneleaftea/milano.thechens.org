@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A minimal Hugo website</title>
+    <link>https://milano.thechens.org/tags/</link>
+    <description>Recent content in Tags on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://milano.thechens.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogdown</title>
+      <link>https://milano.thechens.org/tags/blogdown/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://milano.thechens.org/tags/blogging/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirty-projectors</title>
+      <link>https://milano.thechens.org/tags/dirty-projectors/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/dirty-projectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distros</title>
+      <link>https://milano.thechens.org/tags/distros/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/distros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://milano.thechens.org/tags/git/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://milano.thechens.org/tags/hugo/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joanna-newsom</title>
+      <link>https://milano.thechens.org/tags/joanna-newsom/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/joanna-newsom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joy-division</title>
+      <link>https://milano.thechens.org/tags/joy-division/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/joy-division/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://milano.thechens.org/tags/linux/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyrics</title>
+      <link>https://milano.thechens.org/tags/lyrics/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/lyrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.i.a.</title>
+      <link>https://milano.thechens.org/tags/m.i.a./</link>
+      <pubDate>Wed, 07 Sep 2016 14:48:17 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/m.i.a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://milano.thechens.org/tags/markdown/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National</title>
+      <link>https://milano.thechens.org/tags/national/</link>
+      <pubDate>Thu, 27 Jul 2017 23:24:47 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://milano.thechens.org/tags/r/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://milano.thechens.org/tags/security/</link>
+      <pubDate>Fri, 21 Oct 2016 21:00:36 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stupid</title>
+      <link>https://milano.thechens.org/tags/stupid/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/stupid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trail-of-dead</title>
+      <link>https://milano.thechens.org/tags/trail-of-dead/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/trail-of-dead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiu-xiu</title>
+      <link>https://milano.thechens.org/tags/xiu-xiu/</link>
+      <pubDate>Thu, 03 Aug 2017 14:48:17 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/xiu-xiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeah-yeah-yeahs</title>
+      <link>https://milano.thechens.org/tags/yeah-yeah-yeahs/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://milano.thechens.org/tags/yeah-yeah-yeahs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
