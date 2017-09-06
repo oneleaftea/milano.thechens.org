@@ -6,10 +6,19 @@
     <description>Recent content in Posts on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://milano.thechens.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Moving to Netlify!</title>
+      <link>https://milano.thechens.org/post/moving-to-netlify/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://milano.thechens.org/post/moving-to-netlify/</guid>
+      <description>Just moved this site from Amazon S3/Cloudfront to Netlify! Also moved DNS hosting from Route 53 to Cloudflare DNS (while disabling Cloudflare CDN and instead using Netlify&amp;rsquo;s CDN).</description>
+    </item>
     
     <item>
       <title>This Is Permanence</title>

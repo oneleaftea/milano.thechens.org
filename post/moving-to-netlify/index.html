@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Development | A minimal Hugo website</title>
+    <title>Moving to Netlify! | A minimal Hugo website</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     <style>
@@ -48,60 +48,93 @@ ga('send', 'pageview');
     </nav>
 
 
-
-	<h1>Development</h1>
-
-
-
-
-<ul>
+<div class="article-meta">
+	<span class="title">Moving to Netlify!</span>
 	
-	 
-		<li>
-	<span class="date">2017/09/05</span>
-	<a href="/post/moving-to-netlify/">Moving to Netlify!</a>
-</li>
+		<div class="meta">September 5, 2017</div>
+	
+	
+	
+		<div class="meta">
+			[ 
+			<a href='/categories/development'>Development</a> ]
+		</div>
+	
+	<kbd class="item-tag">
+		<a href='/tags/blogging'>blogging</a></kbd>
+	<kbd class="item-tag">
+		<a href='/tags/netlify'>netlify</a></kbd>
+	
+</div>
 
-	 
+<main><p>Just moved this site from Amazon S3/Cloudfront to <a href="https://www.netlify.com/">Netlify</a>! Also moved DNS hosting from Route 53 to Cloudflare DNS (while disabling Cloudflare CDN and instead using Netlify&rsquo;s CDN).</p>
+</main>
+
+
+	
+<nav class="post-nav">
+	<div class="post-prev">
+		<a href="/post/this-is-permanence/" rel="prev">
+			<span class="post-nav__caption">
+				« Older
+			</span>
+			<p class="post-nav__title-left">
+				This Is Permanence
+			</p>
+		</a>
+	</div>
+</nav>
+
+
+
+
+
+
+
+	<h4 class="related">Related Posts</h4>
+	
 		<li>
 	<span class="date">2017/08/26</span>
 	<a href="/post/markdown-tables-demo/">Markdown Tables Demo</a>
 </li>
 
-	 
+	
 		<li>
 	<span class="date">2017/08/25</span>
 	<a href="/post/markdown-header-test/">Markdown Header Test</a>
 </li>
 
-	 
-		<li>
-	<span class="date">2017/08/25</span>
-	<a href="/post/lines-of-code/">Milano Has 230 Lines of Code</a>
-</li>
-
-	 
-		<li>
-	<span class="date">2017/08/22</span>
-	<a href="/post/concise-git-workflow/">Fork, Branch, and Pull - A Concise Git Workflow</a>
-</li>
-
-	 
-		<li>
-	<span class="date">2016/12/30</span>
-	<a href="/post/markdown-vs-rmarkdown/">A Plain Markdown Post</a>
-</li>
-
-	 
+	
 		<li>
 	<span class="date">2016/09/07</span>
 	<a href="/post/introducing-hugo/">About Hugo</a>
 </li>
 
 	
-</ul>
 
+    
 
+	<h4 class="comment">Comments</h4>
+	<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "milano-hugo" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
 <footer>
