@@ -3,53 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://milano.thechens.org/post/route53-to-google/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://milano.thechens.org/post/moving-to-netlify/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/this-is-permanence/</loc>
-    <lastmod>2017-08-30T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/made-off-dont-stray/</loc>
-    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/slitaz-rules/</loc>
-    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/tod-mark-david-chapman/</loc>
-    <lastmod>2017-08-28T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/that-means-no/</loc>
-    <lastmod>2017-08-28T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/markdown-tables-demo/</loc>
-    <lastmod>2017-08-26T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/demo-posts/</loc>
-    <lastmod>2017-08-26T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/markdown-header-test/</loc>
-    <lastmod>2017-08-25T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/lines-of-code/</loc>
-    <lastmod>2017-08-25T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,12 +64,12 @@
   
   <url>
     <loc>https://milano.thechens.org/post/sawdust-and-diamonds/</loc>
-    <lastmod>2017-08-24T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/post/introducing-bunsenlabs/</loc>
-    <lastmod>2017-08-23T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,6 +133,12 @@
   </url>
   
   <url>
+    <loc>https://milano.thechens.org/tags/aws/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://milano.thechens.org/tags/blogdown/</loc>
     <lastmod>2017-08-24T00:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -146,7 +157,7 @@
   
   <url>
     <loc>https://milano.thechens.org/categories/development/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -158,7 +169,13 @@
   
   <url>
     <loc>https://milano.thechens.org/tags/distros/</loc>
-    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://milano.thechens.org/tags/dns/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -170,37 +187,37 @@
   
   <url>
     <loc>https://milano.thechens.org/tags/hugo/</loc>
-    <lastmod>2017-08-25T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/tags/joanna-newsom/</loc>
-    <lastmod>2017-08-28T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/tags/joy-division/</loc>
-    <lastmod>2017-08-30T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/tags/linux/</loc>
-    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/categories/linux/</loc>
-    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/tags/lyrics/</loc>
-    <lastmod>2017-08-30T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -212,13 +229,13 @@
   
   <url>
     <loc>https://milano.thechens.org/tags/markdown/</loc>
-    <lastmod>2017-08-26T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/categories/misc/</loc>
-    <lastmod>2017-08-30T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -242,7 +259,7 @@
   
   <url>
     <loc>https://milano.thechens.org/post/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -266,19 +283,19 @@
   
   <url>
     <loc>https://milano.thechens.org/tags/stupid/</loc>
-    <lastmod>2017-08-26T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/tags/</loc>
-    <lastmod>2017-08-24T00:00:00-07:00</lastmod>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/tags/trail-of-dead/</loc>
-    <lastmod>2017-08-28T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -290,13 +307,13 @@
   
   <url>
     <loc>https://milano.thechens.org/tags/yeah-yeah-yeahs/</loc>
-    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://milano.thechens.org/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
